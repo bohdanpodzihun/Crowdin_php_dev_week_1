@@ -1,0 +1,1 @@
+alert("Hi, I'm Bohdan, this is a first task")
